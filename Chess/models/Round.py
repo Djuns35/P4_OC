@@ -1,6 +1,6 @@
 ### Docstring ###
 
-class Rounds:
+class Round:
 
 ### Docstring ###
 
@@ -10,3 +10,6 @@ class Rounds:
         self.start_hour = None
         self.end_date = None
         self.end_hour = None
+    
+    def create_match(self):
+        pass

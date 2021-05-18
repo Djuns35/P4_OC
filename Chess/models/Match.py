@@ -1,8 +1,8 @@
 ### Docstring ###
 
-class Matchs:
+class Match:
 
     ### Docstring ###
 
-    def __init__:
+    def __init__(self):
         pass
